@@ -7,3 +7,5 @@ Simplr run: <b>python3 offscreen.py</b> and see the result on testEGL.jpg.
 <img src="testEGL.jpg" />
 
 <h4>Developed by Daniel Cyrus</h4>
+reference:https://developer.nvidia.com/blog/egl-eye-opengl-visualization-without-x-server/
+
